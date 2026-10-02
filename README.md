@@ -8,14 +8,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratik-doke-3539a3249/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect with Pratik on LinkedIn" />
+  <a href="https://www.linkedin.com/in/pratik-doke-3539a3249/" title="Connect on LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" />
   </a>
-  <a href="mailto:pratikdoke7038@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge" alt="Email Pratik" />
+  &nbsp;&nbsp;
+  <a href="mailto:pratikdoke7038@gmail.com" title="Send me an email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Email" />
   </a>
-  <a href="https://github.com/pratikdoke25?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Pratik's GitHub repositories" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/pratikdoke25?tab=repositories" title="Explore my GitHub repositories">
+    <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
   </a>
 </p>
 
@@ -39,7 +41,7 @@
 | Frontend Developer | [Fourise Software Solutions Pvt. Ltd.](https://fouriseindia.com/) | Jul 2024 - Nov 2024 |
 
 <p align="center">
-  Let's connect and talk about web development and engineering opportunities.<br />
+  Feel free to reach out — I’m always happy to help or collaborate on exciting frontend projects!<br />
   <a href="https://www.linkedin.com/in/pratik-doke-3539a3249/">LinkedIn</a> ·
   <a href="mailto:pratikdoke7038@gmail.com">pratikdoke7038@gmail.com</a>
 </p>
