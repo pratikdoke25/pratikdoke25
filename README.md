@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Engineer | React, Next.js &amp; TypeScript</h3>
 
 <p align="center">
-  Building healthcare applications, real-time experiences, and reusable interfaces.<br />
+  Building modern web applications, real-time experiences, and reusable interfaces.<br />
   Based in Pune, India · 2+ years of professional experience
 </p>
 
